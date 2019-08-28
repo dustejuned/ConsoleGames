@@ -1,0 +1,3 @@
+﻿  Tetris.cpp
+c:\consolegames\tetris\tetris\tetris.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Tetris.vcxproj -> C:\ConsoleGames\Tetris\Debug\Tetris.exe
