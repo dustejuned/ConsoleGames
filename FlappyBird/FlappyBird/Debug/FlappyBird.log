@@ -1,0 +1,10 @@
+﻿  FlappyBird.cpp
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\consolegames\consolegames\flappybird\flappybird\flappybird.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FlappyBird.vcxproj -> C:\ConsoleGames\ConsoleGames\FlappyBird\Debug\FlappyBird.exe
